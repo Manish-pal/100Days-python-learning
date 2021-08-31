@@ -14,7 +14,7 @@ When you run your program, it should print the following:
 Day 1 - String Manipulation
 String Concatenation is done with the "+" sign.
 e.g. print("Hello " + "world")
-New lines can be created with a backslash and n.
+New lines can be created with a backslash and n. 
 ```
 
 e.g. When you hit **run**, there should be no errors and this is what should happen:
